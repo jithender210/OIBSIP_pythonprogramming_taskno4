@@ -63,11 +63,7 @@ API_KEY = "YOUR_API_KEY_HERE"
 
 ---
 
-## ▶️ How to Run
-
-```bash
-python app.py
-```
+ 
 
 ---
 
